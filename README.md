@@ -5,9 +5,11 @@
 本人也是小白一步一走来的，有些问题实在解决不了请指正。  
 配置过程中重启尝试了电脑100遍+++，小白的辛酸啊。。  
 现基本可正常使用，分享给大家。  
+
+注意：使用前请修改三码。  
 ![https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true](https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true)  
 
-# 配置
+## 配置
 CPU i5-5200U  
 GPU 940M  
 分辨率 1366x768  
@@ -15,7 +17,7 @@ GPU 940M
 主板 X555LB
   
 
-# 正常
+## 正常
 核显  
 声卡（耳机使用时调到全右，否则只输出背景音无人声）  
 有线网卡  
@@ -26,7 +28,7 @@ GPU 940M
 电量显示  
 USB3.0和USB2.0  
 
-# 不正常
+## 不正常
 940M显卡（无解）  
 Wifi（更换白果网卡）  
 蓝牙（更换白果网卡）  
@@ -34,7 +36,7 @@ Wifi（更换白果网卡）
 读卡器（没弄）  
 
 
-# 未测试
+## 未测试
 HDMI 图像  
 HDMI 音频  
 VGA 端口  
