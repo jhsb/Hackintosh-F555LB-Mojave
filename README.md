@@ -1,9 +1,10 @@
 ﻿# Hackintosh-F555LB-Mojave
-本项目由基于[https://github.com/emre1393/asus-x555lb-mojave-efi](https://github.com/emre1393/asus-x555lb-mojave-efi)
-在此基础上适配了10.14.6系统在F555LB电脑上  
+本项目由基于[https://github.com/emre1393/asus-x555lb-mojave-efi](https://github.com/emre1393/asus-x555lb-mojave-efi)  
+在此基础上适配了Mojave 10.14.6系统在F555LB电脑上。  
 
 本人也是小白一步一走来的，有些问题实在解决不了请指正。  
 配置过程中重启尝试了电脑100遍+++，小白的辛酸啊。。  
+现基本可正常使用，分享给大家。  
 
 # 配置
 CPU i5-5200U  
