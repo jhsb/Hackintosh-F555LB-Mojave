@@ -5,6 +5,7 @@
 本人也是小白一步一走来的，有些问题实在解决不了请指正。  
 配置过程中重启尝试了电脑100遍+++，小白的辛酸啊。。  
 现基本可正常使用，分享给大家。  
+![https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true](https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true)  
 
 # 配置
 CPU i5-5200U  
