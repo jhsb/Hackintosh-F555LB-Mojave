@@ -1,6 +1,6 @@
-﻿# Hackintosh-F555LB-Mojave
+# Hackintosh-F555LB-Mojave
 本项目由基于[https://github.com/emre1393/asus-x555lb-mojave-efi](https://github.com/emre1393/asus-x555lb-mojave-efi)  
-在此基础上适配了Mojave 10.14.6系统在F555LB电脑上。  
+在此基础上修正了一些问题，适配了Mojave 10.14.6系统在F555LB电脑上。  
 
 本人也是小白一步一走来的，有些问题实在解决不了请指正。  
 配置过程中重启尝试了电脑100遍+++，小白的辛酸啊。。  
@@ -11,6 +11,7 @@ CPU i5-5200U
 GPU 940M  
 分辨率 1366x768  
 声卡 ALC233  
+主板 X555LB
   
 
 # 正常
