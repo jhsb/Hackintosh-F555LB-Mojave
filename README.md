@@ -1,34 +1,34 @@
-# Hackintosh-F555LB-Mojave
-±¾ÏîÄ¿ÓÉ»ùÓÚ[https://github.com/emre1393/asus-x555lb-mojave-efi](https://github.com/emre1393/asus-x555lb-mojave-efi)
-ÔÚ´Ë»ù´¡ÉÏÊÊÅäÁË10.14.6ÏµÍ³ÔÚF555LBµçÄÔÉÏ
+ï»¿# Hackintosh-F555LB-Mojave
+æœ¬é¡¹ç›®ç”±åŸºäºŽ[https://github.com/emre1393/asus-x555lb-mojave-efi](https://github.com/emre1393/asus-x555lb-mojave-efi)
+åœ¨æ­¤åŸºç¡€ä¸Šé€‚é…äº†10.14.6ç³»ç»Ÿåœ¨F555LBç”µè„‘ä¸Š
 
-# ÅäÖÃ
+# é…ç½®
 CPU i5-5200U
 GPU 940M
-·Ö±æÂÊ 1366x768
-Éù¿¨ ALC233
+åˆ†è¾¨çŽ‡ 1366x768
+å£°å¡ ALC233
 
 
-# Õý³£
-ºËÏÔ
-Éù¿¨£¨¶ú»úÊ¹ÓÃÊ±µ÷µ½È«ÓÒ£¬·ñÔòÖ»Êä³ö±³¾°ÒôÎÞÈËÉù£©
-ÓÐÏßÍø¿¨
-¼üÅÌºÍFn°´¼ü£¨ÁÁ¶È¿ì½Ý¼ü²»¿ÉÓÃ£©
-´¥¿Ø°å
-ÁÁ¶Èµ÷½Ú
-ÁÁ¶Èµ÷½Ú±£´æ
-µçÁ¿ÏÔÊ¾
-USB3.0ºÍUSB2.0
+# æ­£å¸¸
+æ ¸æ˜¾
+å£°å¡ï¼ˆè€³æœºä½¿ç”¨æ—¶è°ƒåˆ°å…¨å³ï¼Œå¦åˆ™åªè¾“å‡ºèƒŒæ™¯éŸ³æ— äººå£°ï¼‰
+æœ‰çº¿ç½‘å¡
+é”®ç›˜å’ŒFnæŒ‰é”®ï¼ˆäº®åº¦å¿«æ·é”®ä¸å¯ç”¨ï¼‰
+è§¦æŽ§æ¿
+äº®åº¦è°ƒèŠ‚
+äº®åº¦è°ƒèŠ‚ä¿å­˜
+ç”µé‡æ˜¾ç¤º
+USB3.0å’ŒUSB2.0
 
-# ²»Õý³£
-940MÏÔ¿¨£¨ÎÞ½â£©
-Wifi£¨¸ü»»°×¹ûÍø¿¨£©
-À¶ÑÀ£¨¸ü»»°×¹ûÍø¿¨£©
-ÕÕÏà»ú£¨Ã»Åª£©
-¶Á¿¨Æ÷£¨Ã»Åª£©
+# ä¸æ­£å¸¸
+940Mæ˜¾å¡ï¼ˆæ— è§£ï¼‰
+Wifiï¼ˆæ›´æ¢ç™½æžœç½‘å¡ï¼‰
+è“ç‰™ï¼ˆæ›´æ¢ç™½æžœç½‘å¡ï¼‰
+ç…§ç›¸æœºï¼ˆæ²¡å¼„ï¼‰
+è¯»å¡å™¨ï¼ˆæ²¡å¼„ï¼‰
 
 
-# Î´²âÊÔ
-HDMI Í¼Ïñ
-HDMI ÒôÆµ
-VGA ¶Ë¿Ú
+# æœªæµ‹è¯•
+HDMI å›¾åƒ
+HDMI éŸ³é¢‘
+VGA ç«¯å£
