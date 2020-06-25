@@ -8,7 +8,6 @@
 
 注意：使用前请修改三码。  
 ![https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true](https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/111.jpg?raw=true)
-![https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/clovermanage.png?raw=true](https://github.com/jhsb/Hackintosh-F555LB-Mojave/blob/master/Attachment/clovermanage.png?raw=true)   
 
 ## 配置
 CPU i5-5200U  
